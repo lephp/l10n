@@ -1,0 +1,25 @@
+{
+  "name": "lephp/l10n",
+  "description": "localization solution",
+  "authors": [
+    {
+      "name": "Marlin",
+      "email": "toleranthink@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "require-dev": {
+    "codeception/codeception": "2.2.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "L10n\\": "src/"
+    }
+  },
+  "repositories": {
+  },
+  "extra": {
+  }
+}
